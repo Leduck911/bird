@@ -1,0 +1,9 @@
+img {
+    width: 250px;
+}
+body {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(160, 202, 240);
+    color: rgb(8, 6, 42);
+}
